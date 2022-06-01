@@ -2,9 +2,13 @@
 ## Monster Template
 ### Monster Name
 Quantity Encountered
+
 *Tags*
+
 X **HD** (Y HP), Z **AR**
+
 **Attack Name** (XdY)
+
 | d6  | Tactics                  |
 | --- | ------------------------ |
 | 1   | Retreat                  |
@@ -19,9 +23,13 @@ X **HD** (Y HP), Z **AR**
 ### Agony
 ### Albino Cave Bear
 1d2 Encountered
+
 *Heavy, Powerful*
+
 5 **HD** (15 HP), 0 **AR**
+
 **Claws** (1d4), **Bite** (1d8)
+
 - After rolling 4 on Claws, immediately follows with a bear-hug and a subsequent Bite.
 
 | d6  | Tactics                                               |
@@ -38,8 +46,11 @@ X **HD** (Y HP), Z **AR**
 ### Animate Stone Statue
 ### Ant, Giant
 2d4 Encountered
+
 *Insectoid, Swift*
+
 4 **HD** (10 HP), 2 **AR**
+
 **Pincer** (2d6kh1)
 | d6  | Tactics                                 |
 | --- | --------------------------------------- |
@@ -51,9 +62,13 @@ X **HD** (Y HP), Z **AR**
 | 6   | Pelt rocks at enemies                   |
 ### Ape, Albino
 1d6 Encountered
+
 *Nimble, Resourceful*
+
 4 **HD** (8 HP), 1 **AR**
+
 **Claws** (2d4kh1), **Fling Stones** (1d6)
+
 | d6  | Tactics                                                |
 | --- | ------------------------------------------------------ |
 | 1   | Climb to a higher position                             |
@@ -64,9 +79,13 @@ X **HD** (Y HP), Z **AR**
 | 6   | Scale the ceiling and dropkick, bouncing and repeating |
 ### Baboon, Higher
 2d6 Encountered
+
 *Primitive, Resourceful, Angry*
+
 2 **HD** (6 HP), 0 **AR**
+
 **Club** (1d6, Bash)
+
 | d6  | Tactics                                                |
 | --- | ------------------------------------------------------ |
 | 1   | Hide and wait to pounce                                |
@@ -255,23 +274,41 @@ X **HD** (Y HP), Z **AR**
 ### Tarantula
 ### The Plated Mage
 1 Encountered (Unique)
+
 *Immune to Mundane Damage, Immune as Construct, Heals from Lightning (2d6+2), Explodes on Death of Body (8d6)*
+
 Body: 12 **HD** (36 HP), 3 **AR**
+
 Head: 6 **HD** (18 HP), 5 **AR**
+
 2 Actions in any combination:
+
 **Giant Gauntlet** (2d10kh1)
+
 **Spell Crystal** (1 Use Each)
+
 	**Magic Missile** (4d4)
+
 	**Haste** (3 Actions for 3 rounds, 1 action for 3 rounds afterwards)
+
 	**Disintegrate** (Save vs Spells or lose a limb)
+
 	**Shield** (+2 AR for 1 round)
+
 	**Wall of Fire** (2d6 on Touch)
+
 **Wands** (2d6 uses each)
+
 	**Wand of Cold** (Save vs Devices or become frozen)
+
 	**Wand of Device Negation** (A magic item becomes temporarily mundane)
+
 	**Wand of Fireballs** (3d6)
+
 	**Wand of Lightning Bolts** (1d8+1d8 per connection)
+
 **Anti-Magic Field** (All spells within the area for 10 minutes fizzle, 48 hour recharge)
+
 | d6  | Tactics                                    |
 | --- | ------------------------------------------ |
 | 1   | Zap Self with Wand of Lightning            |
