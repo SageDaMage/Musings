@@ -12,7 +12,7 @@ X **HD** (Y HP), Z **AR**
 | 3   | Special (Battle)         |
 | 4   | Special (Target)         |
 | 5   | Targeted Attack (strong) |
-| 6   | Special (Ultimate)       | 
+| 6   | Special (Ultimate)       |
 ## Monster List
 ### Agent of Fortune
 ### Anglethurges
@@ -23,6 +23,7 @@ X **HD** (Y HP), Z **AR**
 5 **HD** (15 HP), 0 **AR**
 **Claws** (1d4), **Bite** (1d8)
 - After rolling 4 on Claws, immediately follows with a bear-hug and a subsequent Bite.
+
 | d6  | Tactics                                               |
 | --- | ----------------------------------------------------- |
 | 1   | Wildly roar and stand to full height                  |
@@ -30,7 +31,7 @@ X **HD** (Y HP), Z **AR**
 | 3   | Cause stalagtites to fall by pounding floor           |
 | 4   | Crouch and then jump head-first into gut              |
 | 5   | Bite rotator cuff of the most aggressive enemy        |
-| 6   | Bear-hug, permanently crushing metal armor (-1 Armor) | 
+| 6   | Bear-hug, permanently crushing metal armor (-1 Armor) |
 ### Animate Gilded Statue
 ### Animate Glass Statue
 ### Animate Iron Statue
@@ -60,7 +61,7 @@ X **HD** (Y HP), Z **AR**
 | 3   | Steal any open equipment                               |
 | 4   | Slam a rock at an exposed head                         |
 | 5   | Use tail to trip up heaviest enemy                     |
-| 6   | Scale the ceiling and dropkick, bouncing and repeating | 
+| 6   | Scale the ceiling and dropkick, bouncing and repeating |
 ### Baboon, Higher
 2d6 Encountered
 *Primitive, Resourceful, Angry*
@@ -72,7 +73,7 @@ X **HD** (Y HP), Z **AR**
 | 2   | Throw mud in ranged attacker's face                    |
 | 3   | Run past enemies to get to the back                    |
 | 4   | Disarm enemy with club                                 |
-| 5   | Lead with stunning headbutt; follow-up with pummelling | 
+| 5   | Lead with stunning headbutt; follow-up with pummelling |
 | 6   | Form a conga line of charging clubs                    |
 ### Bat, Normal
 ### Bat, Giant
@@ -278,7 +279,7 @@ Head: 6 **HD** (18 HP), 5 **AR**
 | 3   | Cast Haste on Self                         |
 | 4   | Create a Wall of Fire around a target      |
 | 5   | Wand of Cold up close followed by smashing |
-| 6   | Use Anti-Magic Field                       | 
+| 6   | Use Anti-Magic Field                       |
 
 ### Thing in the Pool
 ### Throghrin
@@ -308,7 +309,7 @@ Head: 6 **HD** (18 HP), 5 **AR**
 ### Unraveled Shrew, Giant
 ### Unraveled Stirge
 ### Unraveled Troll
-### Unraveled Wyvern 
+### Unraveled Wyvern
 ### Vampire
 ### Vampiric Achenes
 ### Vrilya
