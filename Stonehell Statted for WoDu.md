@@ -360,4 +360,20 @@ Head: 6 **HD** (18 HP), 5 **AR**
 ### Wraith
 ### Yellow Mold
 ### Zombie
+2d4 Encountered
+
+*undead, humanoid, guardian*
+
+2 **HD** (6 HP), 0 **AR**
+
+**Slam** (1d6)
+
+| d6  | Tactics                  |
+| --- | ------------------------ |
+| 1   | Move to protect their master or ally |
+| 2   | Bite target with least armor   |
+| 3   | Begin throwing up slippery bile         |
+| 4   | Bear hug slowest target         |
+| 5   | Dogpile strongest enemy |
+| 6   | Gain a burst of speed from undead anger       |
 ### Zombie Troll
