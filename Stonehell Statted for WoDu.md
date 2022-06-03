@@ -108,6 +108,23 @@ X **HD** (Y HP), Z **AR**
 ### Bone Monkey
 ### Bone Thing
 ### Carcass Scavenger
+1d4 Encountered
+
+*Insectoid, Venomous, Cling*
+
+3 **HD** (7 HP), 1 **AR**
+
+**Bite** (1d4)
+**Tentacle** (Save vs Paralysis or a limb becomes paralyzed for 1d4+1 Turns)
+
+| d6  | Tactics                  |
+| --- | ------------------------ |
+| 1   | Wave tentacles as they back away to better positioning                  |
+| 2   | Grab shoulders with tentacles and spring upwards to get past an enemy   |
+| 3   | Begin to burrow underneath feet         |
+| 4   | Brush tentacles on fingers         |
+| 5   | Sweep with tentacles  |
+| 6   | Bite off armor while pounding with tentacles       |
 ### Carnivorous Beetle
 ### Catfish, Giant Cave
 ### Cave Bear
